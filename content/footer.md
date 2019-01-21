@@ -12,4 +12,4 @@ Our partners:
 
 {{< /socials >}}
 
-&copy; 2018 Coventry University Hackathon Society
+&copy; 2019 Coventry University Hackathon Society

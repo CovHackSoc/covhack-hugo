@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html><body><!DOCTYPE html>
+<html lang="en">
+  <head>
+	<meta name="generator" content="Hugo 0.47.1" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title></title>
+
+    
+    <script src='https://api.mapbox.com/mapbox-gl-js/v0.51.0/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v0.51.0/mapbox-gl.css' rel='stylesheet' />
+    
+    <script src='https://js.tito.io/v1' async></script>
+    <link rel="stylesheet" type="text/css" href='/css/tito_test.css' />
+
+    
+    
+    
+    <link rel="stylesheet" type="text/css" href="https://covhack.org/sass/main.css" />
+
+    
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+
+  </head>
+  <body>
+<div id="content">
+<div href="#" id="mobile-nav-btn">
+    <div></div>
+</div>
+
+<nav>
+    <a data-scroll-to-id="header">
+        <img src="/images/covhack-square-logo-bg.png" alt="CovHack Sticker" />
+        <h1>CovHack <span>2019</span></h1>
+    </a>
+
+    <a href="#" data-scroll-to-id="about">About</a>
+    <a href="#" data-scroll-to-id="sponsors">Sponsors</a>
+    <a href="#" data-scroll-to-id="faq">FAQs</a>
+    <a href="#" class="nav-link-alt" data-scroll-to-id="tickets"><i class="fas fa-ticket-alt"></i> Get Tickets</a>
+</nav>
+
+<section class="header" id="header">
+    <div class="fadeIn header-full header-badge">
+        <img src="/images/covhack-square-logo-bg.png" alt="CovHack Sticker" />
+    </div>
+    <div class="header-full fadeIn">
+        <h1>CovHack <span>2019</span></h1/>
+    </div>
+    <div class="header-full fadeIn">
+        <h2>9<sup>th</sup> - 10<sup>th</sup> March 2019</h2>
+    </div>
+    <a class="btn btn-icon-alt fadeIn" href="#" data-scroll-to-id="tickets"><i class="fas fa-ticket-alt"></i>Get Tickets</a>
+    <a class="btn btn-icon fadeIn" href="#" data-scroll-to-id="about"><i class="fas fa-chevron-down"></i>Learn More</a>
+</section>
+
+<section class="style1" id="about">
+    <div class="inner">
+        
+        
+
+<h1 id="welcome-to-covhack-2019">Welcome to CovHack 2019!</h1>
+
+<p>CovHack 2019 is a student hackathon organised by the Hackathon Society at
+Coventry University. Students from Coventry and beyond of all skill levels can
+come and build weird, wacky and wonderful projects.</p>
+
+<p>We&rsquo;ll have workshops and side events during the event, including some computer
+security challenges for when you want a break from your project!</p>
+
+
+        
+
+<h2 id="find-us">Find Us</h2>
+
+<p>We&rsquo;re hosting this on the Coventry University Campus, which is a 15 minutes walk
+away from the train station or 10 minutes from the Coach station.</p>
+
+<p>Please account for the chance of event overruns when buying tickets, hackathons
+are notorious for overrunning.</p>
+
+<div class="flexbox">
+    <div class="flexitem">
+    <h3 id="i-class-fas-fa-train-i-train"><i class="fas fa-train"></i> Train</h3>
+
+<p>Coventry has direct train links to the following major cities:</p>
+
+<ul>
+<li>Birmingham (20 minute Journey from New Street Station)</li>
+<li>London (1 Hour from Euston with fast train, 2 hours with the cheaper and slower one)</li>
+<li>Oxford (45 Minutes)</li>
+<li>Manchester (2 Hours from Manchester Piccadilly)</li>
+</ul>
+
+<p>If you are coming from the East Midlands (Cambridge, Leicester, etc), you can get the Cross Country train from Stansted to Birmingham and get off at Nuneaton. From Nuneaton it&rsquo;s a 20 minute journey here.</p>
+
+</div>
+
+<div class="flexitem">
+    <h3 id="i-class-fas-fa-bus-i-bus"><i class="fas fa-bus"></i> Bus</h3>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam blandit elementum lectus sit amet rhoncus. Integer mollis vestibulum fermentum. Aliquam sit amet consequat sapien. Donec non neque vitae sem tempor eleifend at euismod dui. Quisque suscipit rutrum est quis tincidunt. Suspendisse lobortis cursus justo, eu fringilla orci sagittis sed. Curabitur a mi tellus. Integer commodo tincidunt augue.
+</div>
+
+<div class="flexitem">
+    <h3 id="i-class-fas-fa-car-i-driving"><i class="fas fa-car"></i> Driving</h3>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam blandit elementum lectus sit amet rhoncus. Integer mollis vestibulum fermentum. Aliquam sit amet consequat sapien. Donec non neque vitae sem tempor eleifend at euismod dui. Quisque suscipit rutrum est quis tincidunt. Suspendisse lobortis cursus justo, eu fringilla orci sagittis sed. Curabitur a mi tellus. Integer commodo tincidunt augue.</p>
+
+<div class="flexitem">
+    
+</div>
+
+<p></div></p>
+
+</div>
+
+
+    </div>
+</section>
+
+<section class="map-container">
+    <div id='map'></div>
+
+</section>
+
+<section class="style1">
+    <div class="inner">
+        
+        
+
+<h1 id="schedule">Schedule</h1>
+
+<p>This is subject to change, but the general plan is as follows:</p>
+
+<div class="tableContainer">
+    <div class="inlineTable">
+    <h2 id="saturday">Saturday</h2>
+
+<table>
+<thead>
+<tr>
+<th>Time</th>
+<th>Activity</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>10:00</td>
+<td>Doors open</td>
+</tr>
+
+<tr>
+<td>11:00</td>
+<td>Openning Presentations</td>
+</tr>
+
+<tr>
+<td>12:00</td>
+<td>Hacking starts!</td>
+</tr>
+
+<tr>
+<td>13:00</td>
+<td>Lunch</td>
+</tr>
+
+<tr>
+<td>14:00</td>
+<td>Workshops start</td>
+</tr>
+
+<tr>
+<td>19:00</td>
+<td>Dinner</td>
+</tr>
+
+<tr>
+<td>21:00</td>
+<td>Wearwolf</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<div class="inlineTable">
+    <h2 id="sunday">Sunday</h2>
+
+<table>
+<thead>
+<tr>
+<th>Time</th>
+<th>Activity</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>0:00</td>
+<td>PIZZA</td>
+</tr>
+
+<tr>
+<td>7:00</td>
+<td>Breakfast</td>
+</tr>
+
+<tr>
+<td>12:00</td>
+<td>Hacking Ends</td>
+</tr>
+
+<tr>
+<td>13:00</td>
+<td>Lunch</td>
+</tr>
+
+<tr>
+<td>14:00</td>
+<td>Presentations</td>
+</tr>
+
+<tr>
+<td>16:00</td>
+<td>Judging</td>
+</tr>
+
+<tr>
+<td>16:30</td>
+<td>Awards and Closing Cermony</td>
+</tr>
+
+<tr>
+<td>17:00</td>
+<td>Closing</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+</div>
+
+
+    </div>
+</section>
+
+<section class="style1" style="background: white;"  id="sponsors">
+    <div class="inner">
+        
+        
+
+<h1 id="sponsors">Sponsors</h1>
+
+<div class="logos">
+    <h1 id="partners">Partners</h1>
+
+<p><a href="https://cusu.org"><img src="/images/sponsors/cusu-logo.png"/></a></p>
+
+<p>If you are interested in sponsoring our event, send an email to <code>hello AT covhack DOT org</code></p>
+
+</div>
+
+
+    </div>
+</section>
+
+<section class="faq-grid" id="faq">
+    
+    
+
+<h2 id="faqs">FAQs</h2>
+
+<div class="faq-grid-item">
+    <h3 id="what-s-a-hackathon">What&rsquo;s a Hackathon?</h3>
+
+<p>A Hackathon is a weekend long invention marathon. You work over the weekend to
+build a project (generally something to do with tech, like a website or robot).
+</div>
+
+
+<div class="faq-grid-item">
+    <h3 id="can-i-attend">Can I attend?</h3>
+
+<p>All students (even those not at Coventry University) and recent graduates (within the last year) can attend!</p>
+
+<p>You don&rsquo;t even have to study in the UK or Europe</p>
+
+</div>
+
+
+<div class="faq-grid-item">
+    <h3 id="how-much-does-it-cost">How much does it cost?</h3>
+
+<p>The event is completely free! Everything is paid for by our wonderful sponsors!
+</div>
+
+
+<div class="faq-grid-item">
+    <h3 id="what-about-sleeping">What about Sleeping?</h3>
+
+<p>There will be a few places setup for sleeping around the venue.
+</div>
+
+
+<div class="faq-grid-item">
+    <h3 id="will-there-be-travel-reimbursements">Will there be travel reimbursements?</h3>
+
+<p>At this time, we can not provide travel reimbursements.
+</div>
+
+
+<div class="faq-grid-item">
+    <h3 id="i-don-t-have-a-team">I don&rsquo;t have a team!</h3>
+
+<p>Don&rsquo;t worry, we&rsquo;ll have a team building session at the start of the hackathon.
+</div>
+
+
+<div class="faq-grid-item">
+    <h3 id="i-have-a-ticket-but-can-t-make-it">I have a ticket but can’t make it!</h3>
+
+<p>Please send us an email so we can make sure someone else who wants to come can make it to the event!
+</div>
+
+
+<div class="faq-grid-item">
+    <h3 id="will-there-be-food-and-drink">Will there be food and drink?</h3>
+
+<p>Yes we aim to provide food, all paid for by sponsors!
+</div>
+
+
+<div class="faq-grid-item">
+    <h3 id="is-there-a-code-of-conduct">Is there a code of conduct?</h3>
+
+<p>Yes! We&rsquo;re following the Hack Code of Conduct, <a href="https://hackcodeofconduct.org/">available here</a>
+</div>
+
+
+<div class="faq-grid-item">
+    <h3 id="what-should-i-bring">What should I bring?</h3>
+
+<p>We highly recommend you bring the following:</p>
+
+<ul>
+<li>A Laptop (or your gaming rig :))</li>
+<li>A charger</li>
+<li>Deodorant</li>
+<li>Toothbrush + Toothpaste</li>
+<li>A change of clothes</li>
+</ul>
+
+</div>
+
+
+<div class="faq-grid-item">
+    <h3 id="what-if-i-don-t-know-how-to-code">What if I don’t know how to code?</h3>
+
+<p>Not a problem! A hackathon is one of the best places to learn programming, electronics or whatever you want! We&rsquo;ll be running workshops to help you get started as well.
+We&rsquo;ll be running a Slack server so you ask for help from people attending if you are stuck as well.
+</div>
+
+
+<div class="faq-grid-item">
+    <h3 id="how-will-communication-be-done-at-the-event">How will communication be done at the event?</h3>
+
+<p>We&rsquo;ll be using Discord. We&rsquo;ll send an invite link before the event!
+</div>
+
+
+</section>
+
+<section class="style1 inner" id="tickets">
+    
+
+<h1 id="tickets">Tickets</h1>
+
+<p>We&rsquo;ll be releasing tickets in four batches!</p>
+
+    
+<tito-widget event="covhack/testevent"></tito-widget>
+
+</section>
+
+
+        </div>    <footer>
+      <p>Find us on socials, Github or email:</p>
+
+<div class="socials">
+    <p><a href="https://facebook.com/covhacksoc"><i class="fab fa-facebook-f"></i></a>
+<a href="https://twitter.com/covhacksoc"><i class="fab fa-twitter"></i></a>
+<a href="https://github.com/covhacksoc"><i class="fab fa-github"></i></a>
+<a href="mailto:hello@covhack.org"><i class="fas fa-envelope-open"></i></a></p>
+
+<p>Our partners:</p>
+
+<p><a href="https://cusu.org/"><img src="/images/sponsors/cusu-logo.png" class="footer-logo-image" alt="CUSU logo" /></a></p>
+
+</div>
+
+
+<p>&copy; 2018 Coventry University Hackathon Society</p>
+
+      <p> Credits: <a href="http://html5up.net/">HTML5 UP</a> + <a href="http://unsplash.com/">Unsplash</a></p>
+    </footer>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="/js/main.js"></script>
+    <script src="/js/map.js"></script>
+    <script src="/js/user.js"></script>
+
+    <script>
+    const token = "pk.eyJ1IjoibTE1ODc0MDkiLCJhIjoiY2pvc3l1cTZqMHNvZjNwcGh5azRvYmRycSJ9.xtQSLto9hgN4J9LAzLQcbw";
+    const center = [-1.500075,52.405634];
+    const zoom =  16.1 ;
+    const coordinates = [-1.500086,52.405313];
+    const title = "CovHack";
+    const description = "1 Gulson Rd,\x3cbr\/\x3e Coventry\x3cbr\/\x3eCV1 2JH";
+    createMap("map", token, center, zoom, coordinates, title, description);
+</script>
+
+  </body>
+</html>
+</body>
+</html>

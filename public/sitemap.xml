@@ -3,11 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://covhack.org/</loc>
+  </url>
+  
+  <url>
     <loc>https://covhack.org/directions/</loc>
   </url>
   
   <url>
     <loc>https://covhack.org/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>https://covhack.org/footer/</loc>
   </url>
   
   <url>
@@ -23,12 +31,11 @@
   </url>
   
   <url>
-    <loc>https://covhack.org/categories/</loc>
-    <priority>0</priority>
+    <loc>https://covhack.org/tickets/</loc>
   </url>
   
   <url>
-    <loc>https://covhack.org/</loc>
+    <loc>https://covhack.org/categories/</loc>
     <priority>0</priority>
   </url>
   
