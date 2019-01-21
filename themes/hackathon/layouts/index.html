@@ -1,19 +1,19 @@
 {{ define "main" }}
-<div href="#" id="mobile-nav-btn">
-    <div></div>
+<div class="noselect">
+    <div href="#" id="mobile-nav-btn"><div></div></div>
+
+    <nav>
+        <a data-scroll-to-id="header">
+            <img src="{{ .Site.Params.Logo }}" alt="CovHack Sticker" />
+            <h1>{{ .Site.Params.Name }} <span>{{ .Site.Params.Year }}</span></h1>
+        </a>
+
+        <a href="#" data-scroll-to-id="about">About</a>
+        <a href="#" data-scroll-to-id="sponsors">Sponsors</a>
+        <a href="#" data-scroll-to-id="faq">FAQs</a>
+        <a href="#" class="nav-link-alt" data-scroll-to-id="tickets"><i class="fas fa-ticket-alt"></i> Get Tickets</a>
+    </nav>
 </div>
-
-<nav>
-    <a data-scroll-to-id="header">
-        <img src="{{ .Site.Params.Logo }}" alt="CovHack Sticker" />
-        <h1>{{ .Site.Params.Name }} <span>{{ .Site.Params.Year }}</span></h1>
-    </a>
-
-    <a href="#" data-scroll-to-id="about">About</a>
-    <a href="#" data-scroll-to-id="sponsors">Sponsors</a>
-    <a href="#" data-scroll-to-id="faq">FAQs</a>
-    <a href="#" class="nav-link-alt" data-scroll-to-id="tickets"><i class="fas fa-ticket-alt"></i> Get Tickets</a>
-</nav>
 
 <section class="header" id="header">
     <div class="fadeIn header-full header-badge">
