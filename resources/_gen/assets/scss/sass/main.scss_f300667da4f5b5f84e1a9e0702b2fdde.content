@@ -495,3 +495,15 @@ table {
 
 .socials a {
   border: none; }
+
+.flexbox {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap; }
+
+.flexitem {
+  width: 100%;
+  flex-shrink: 1;
+  flex-grow: 1;
+  flex-basis: 360px;
+  margin: 20px; }
