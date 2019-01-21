@@ -38,7 +38,7 @@ We are unable to offer parking on Campus.
 A list of car parks in the city is available
 <a href="http://www.coventry.gov.uk/homepage/1024/parking_search_results?your-area-keyword=&your-area-category=191&your-area-postcode=CV1+5RR&your-area-radius=2">here.</a>
 
-If you are new to the city, beware of challenges of driving on the ring road.
+If you are new to the city, beware of the challenges of driving on the ring road.
 
 {{< flexitem >}}
 {{< /flexbox >}}
