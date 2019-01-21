@@ -1,4 +1,8 @@
 ul {
     list-style-position: inside;
-    color: #848484;
+}
+
+/* Hack to avoid issues with the two lists we have */
+#about ul {
+    color: #8f8f8f;
 }
