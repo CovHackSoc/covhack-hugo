@@ -23,7 +23,7 @@
         <h1>{{ .Site.Params.Name  }} <span>{{ .Site.Params.Year }}</span></h1/>
     </div>
     <div class="header-full fadeIn">
-        <h2>{{ .Site.Params.Date }}</h2>
+        <h2>{{ .Site.Params.Date | safeHTML }}</h2>
     </div>
     <a class="btn btn-icon-alt fadeIn" href="#" data-scroll-to-id="tickets"><i class="fas fa-ticket-alt"></i>Get Tickets</a>
     <a class="btn btn-icon fadeIn" href="#" data-scroll-to-id="about"><i class="fas fa-chevron-down"></i>Learn More</a>

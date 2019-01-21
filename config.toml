@@ -6,8 +6,8 @@ theme = "hackathon"
 # Theme settings
 [params]
     name = "CovHack"
-    year = "2020"
-    date = "9th - 10th March 2019"
+    year = "2019"
+    date = "9<sup>th</sup> - 10<sup>th</sup> March 2019"
     tickets = "covhack/testevent"
     logo = "/images/covhack-square-logo-bg.png"
     # Social Media Links
