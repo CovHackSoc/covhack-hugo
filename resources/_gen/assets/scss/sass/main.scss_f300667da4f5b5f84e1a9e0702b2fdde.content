@@ -490,5 +490,8 @@ table {
   margin: 0 auto;
   text-align: center; }
 
+.logos a {
+  border: none; }
+
 .socials a {
   border: none; }
