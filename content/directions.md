@@ -1,7 +1,7 @@
 ## Find Us
 
-The event is being hosted on the Coventry University Campus, which is a 15
-minutes walk from the train station, or 10 minutes from the coach station.
+The event is being hosted on the Coventry University Campus, which is a 20 minutes
+walk from the train station, or 10 minutes from the coach station.
 
 When booking tickets bear in mind that hackathons are notorious for over running.
 
@@ -12,12 +12,10 @@ When booking tickets bear in mind that hackathons are notorious for over running
 
 Coventry has direct train links to the following major cities:
 
-* Birmingham (20 minute Journey from New Street Station)
+* Birmingham (20 minutes journey from New Street Station)
 * London (1 Hour from Euston with fast train, 2 hours with the cheaper and slower one)
 * Oxford (45 Minutes)
 * Manchester (2 Hours from Manchester Piccadilly)
-
-If you are coming from the East Midlands (Cambridge, Leicester, etc), you can get the Cross Country train from Stansted to Birmingham and get off at Nuneaton. From Nuneaton it's a 20 minute journey.
 
 {{< /flexitem >}}
 
