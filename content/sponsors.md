@@ -1,5 +1,6 @@
-{{< logos >}}
 # Sponsors
+
+{{< logos >}}
 
 # Partners
 

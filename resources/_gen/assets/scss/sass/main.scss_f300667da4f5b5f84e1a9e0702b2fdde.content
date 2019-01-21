@@ -489,3 +489,6 @@ table {
   display: block;
   margin: 0 auto;
   text-align: center; }
+
+.socials a {
+  border: none; }
