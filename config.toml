@@ -1,7 +1,7 @@
-baseURL = "https://covhack.org/"
 languageCode = "en-us"
 title = "CovHack 2019"
 theme = "hackathon"
+relativeURLs = true
 
 # Theme settings
 [params]
