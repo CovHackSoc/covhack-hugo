@@ -25,18 +25,24 @@ If you are coming from the East Midlands (Cambridge, Leicester, etc), you can ge
 {{< flexitem >}}
 ### <i class="fas fa-bus"></i> Bus
 
+Coventry has direct coach links to Birmingham and London, with both of those
+having cities being reachable by most destinations.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam blandit elementum lectus sit amet rhoncus. Integer mollis vestibulum fermentum. Aliquam sit amet consequat sapien. Donec non neque vitae sem tempor eleifend at euismod dui. Quisque suscipit rutrum est quis tincidunt. Suspendisse lobortis cursus justo, eu fringilla orci sagittis sed. Curabitur a mi tellus. Integer commodo tincidunt augue.
-
+If coming from further away, it would be a reasonable option to take an overnight
+trip to one of those cities and then take the train into Coventry.
 
 {{< /flexitem >}}
 
 {{< flexitem >}}
 ### <i class="fas fa-car"></i> Driving
 
+We are unable to directly offer parking on Campus.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam blandit elementum lectus sit amet rhoncus. Integer mollis vestibulum fermentum. Aliquam sit amet consequat sapien. Donec non neque vitae sem tempor eleifend at euismod dui. Quisque suscipit rutrum est quis tincidunt. Suspendisse lobortis cursus justo, eu fringilla orci sagittis sed. Curabitur a mi tellus. Integer commodo tincidunt augue.
+A list of car parks in the city is available
+<a href="http://www.coventry.gov.uk/homepage/1024/parking_search_results?your-area-keyword=&your-area-category=191&your-area-postcode=CV1+5RR&your-area-radius=2">here.</a>
 
+If you are new to the city, beware of the difficulty of driving on the ring
+road.
 
 {{< flexitem >}}
 {{< /flexbox >}}
