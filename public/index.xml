@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CovHack 2019</title>
+    <link>https://covhack.org/</link>
+    <description>Recent content on CovHack 2019</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://covhack.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://covhack.org/directions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://covhack.org/directions/</guid>
+      <description>Find Us We&amp;rsquo;re hosting this on the Coventry University Campus, which is a 15 minutes walk away from the train station or 10 minutes from the Coach station.
+Please account for the chance of event overruns when buying tickets, hackathons are notorious for overrunning.
+Train Coventry has direct train links to the following major cities:
+ Birmingham (20 minute Journey from New Street Station) London (1 Hour from Euston with fast train, 2 hours with the cheaper and slower one) Oxford (45 Minutes) Manchester (2 Hours from Manchester Piccadilly)  If you are coming from the East Midlands (Cambridge, Leicester, etc), you can get the Cross Country train from Stansted to Birmingham and get off at Nuneaton.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://covhack.org/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://covhack.org/faq/</guid>
+      <description>FAQs So, what&amp;rsquo;s a Hackathon? Good question! We covered this in our about section here
+Can I attend? All students (even those not at Coventry University) and recent graduates (within the last year) can attend!
+How much does it cost? The event is completely free! Everything is paid for by our wonderful sponsors!
+What about Sleeping? There will be a few places setup for sleeping around the venue.
+Will there be travel reimbursements?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://covhack.org/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://covhack.org/schedule/</guid>
+      <description>Schedule This is subject to change, but the general plan is as follows:
+Saturday |&amp;mdash;&amp;ndash;|&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;| |10:00|Doors open | |11:00|Openning Presentations | |12:00|Hacking starts! | |13:00|Lunch | |14:00|Workshop start | |19:00|Dinner | |21:00|Wearwolf |
+Sunday |&amp;mdash;&amp;ndash;|&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;| |0:00 |PIZZA | |7:00 |Breakfast | |12:00|Hacking Ends | |13:00|Lunch | |14:00|Presentations | |16:00|Judging | |16:30|Awards and Closing Cermony| |17:00|Closing |</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://covhack.org/sponsors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://covhack.org/sponsors/</guid>
+      <description>Sponsors Partners CUSU &amp;ldquo;IMAGE LOGO HERE&amp;rdquo;
+If you are interested in sponsoring our event, send an email to hello AT covhack DOT org</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://covhack.org/summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://covhack.org/summary/</guid>
+      <description>Welcome to CovHack 2019! CovHack is a student hackathon organised by the Hackathon Society at Coventry University.
+CovHack 2019 is the first intereration of the event.</description>
+    </item>
+    
+  </channel>
+</rss>

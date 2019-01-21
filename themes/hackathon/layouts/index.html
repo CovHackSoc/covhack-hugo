@@ -1,0 +1,69 @@
+{{ define "main" }}
+<div href="#" id="mobile-nav-btn">
+    <div></div>
+</div>
+
+<nav>
+    <a data-scroll-to-id="header">
+        <img src="{{ .Site.Params.Logo }}" alt="CovHack Sticker" />
+        <h1>{{ .Site.Params.Name }} <span>{{ .Site.Params.Year }}</span></h1>
+    </a>
+
+    <a href="#" data-scroll-to-id="about">About</a>
+    <a href="#" data-scroll-to-id="sponsors">Sponsors</a>
+    <a href="#" data-scroll-to-id="faq">FAQs</a>
+    <a href="#" class="nav-link-alt" data-scroll-to-id="tickets"><i class="fas fa-ticket-alt"></i> Get Tickets</a>
+</nav>
+
+<section class="header" id="header">
+    <div class="fadeIn header-full header-badge">
+        <img src="{{ .Site.Params.Logo }}" alt="CovHack Sticker" />
+    </div>
+    <div class="header-full fadeIn">
+        <h1>{{ .Site.Params.Name  }} <span>{{ .Site.Params.Year }}</span></h1/>
+    </div>
+    <div class="header-full fadeIn">
+        <h2>{{ .Site.Params.Date }}</h2>
+    </div>
+    <a class="btn btn-icon-alt fadeIn" href="#" data-scroll-to-id="tickets"><i class="fas fa-ticket-alt"></i>Get Tickets</a>
+    <a class="btn btn-icon fadeIn" href="#" data-scroll-to-id="about"><i class="fas fa-chevron-down"></i>Learn More</a>
+</section>
+
+<section class="style1" id="about">
+    <div class="inner">
+        <!-- ABOUT -->
+        {{ with .Site.GetPage "page" "summary" }}{{ .Content }}{{ end }}
+
+        {{ with .Site.GetPage "page" "directions" }}{{ .Content }}{{ end }}
+    </div>
+</section>
+
+<section class="map-container">
+    {{ partial "map.html" (dict "container" "map" )}}
+</section>
+
+<section class="style1">
+    <div class="inner">
+        <!-- SCHEDULE -->
+        {{ with .Site.GetPage "page" "schedule" }}{{ .Content }}{{ end }}
+    </div>
+</section>
+
+<section class="style1" style="background: white;"  id="sponsors">
+    <div class="inner">
+        <!-- SPONSORS -->
+        {{ with .Site.GetPage "page" "sponsors" }}{{ .Content }}{{ end }}
+    </div>
+</section>
+
+<section class="faq-grid" id="faq">
+    <!-- FAQ -->
+    {{ with .Site.GetPage "page" "faq" }}{{ .Content }}{{ end }}
+</section>
+
+<section class="style1 inner" id="tickets">
+    {{ with .Site.GetPage "page" "tickets" }}{{ .Content }}{{ end }}
+    {{ partial "tickets.html" (dict "tickets" .Site.Params.Tickets )}}
+</section>
+
+{{ end }}

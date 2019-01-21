@@ -1,0 +1,24 @@
+baseURL = "https://covhack.org/"
+languageCode = "en-us"
+title = "CovHack 2019"
+theme = "hackathon"
+
+# Theme settings
+[params]
+    name = "CovHack"
+    year = "2020"
+    date = "9th - 10th March 2019"
+    tickets = "covhack/testevent"
+    logo = "/images/covhack-square-logo-bg.png"
+    # Social Media Links
+    facebook = "covhacksoc"
+    github = "covhacksoc"
+    twitter = "covhacksoc"
+    email = "hello@covhack.org"
+    # MapBox
+    mapboxtoken = "pk.eyJ1IjoibTE1ODc0MDkiLCJhIjoiY2pvc3l1cTZqMHNvZjNwcGh5azRvYmRycSJ9.xtQSLto9hgN4J9LAzLQcbw"
+    center = [-1.500075, 52.405634]
+    zoom = 16.1
+    coordinates = [-1.500086, 52.405313]
+    title = "CovHack"
+    description = "1 Gulson Rd,<br/> Coventry<br/>CV1 2JH"

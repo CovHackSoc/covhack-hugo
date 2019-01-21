@@ -1,0 +1,9 @@
+<script>
+    const token = "{{ .Site.Params.Mapboxtoken }}";
+    const center = {{ .Site.Params.Center }};
+    const zoom = {{ .Site.Params.Zoom }};
+    const coordinates = {{ .Site.Params.Coordinates }};
+    const title = "{{ .Site.Params.Title }}";
+    const description = "{{ .Site.Params.description }}";
+    createMap("map", token, center, zoom, coordinates, title, description);
+</script>
