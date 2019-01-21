@@ -9,9 +9,7 @@ build a project (generally something to do with tech, like a website or robot).
 
 {{< faq >}}
 ### Can I attend?
-All students (even those not at Coventry University) and recent graduates (within the last year) can attend!
-
-You don't even have to study in the UK or Europe
+All students and recent graduates (within the last year) from any university can attend.
 
 {{< /faq >}}
 
@@ -63,12 +61,14 @@ We highly recommend you bring the following:
 * Deodorant
 * Toothbrush + Toothpaste
 * A change of clothes
+
 {{< /faq >}}
 
 {{< faq >}}
 ### What if I don’t know how to code?
-Not a problem! A hackathon is one of the best places to learn programming, electronics or whatever you want! We'll be running workshops to help you get started as well. 
-We'll be running a Slack server so you ask for help from people attending if you are stuck as well.
+Not a problem! A hackathon is one of the best places to learn programming, electronics or whatever you want! We'll be running workshops to help you get started. 
+We will also be running a Slack server, so if you are stuck you can ask for
+help from people attending the hackathon.
 {{< /faq >}}
 
 {{< faq >}}
