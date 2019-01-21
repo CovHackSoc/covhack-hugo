@@ -1,13 +1,17 @@
 ## FAQs
 
+
 {{< faq >}}
-### So, what's a Hackathon?
-Good question! We covered this in our about section here
+### What's a Hackathon?
+A Hackathon is a weekend long invention marathon. You work over the weekend to
+build a project (generally something to do with tech, like a website or robot).
 {{< /faq >}}
 
 {{< faq >}}
 ### Can I attend?
 All students (even those not at Coventry University) and recent graduates (within the last year) can attend!
+
+You don't even have to study in the UK or Europe
 
 {{< /faq >}}
 
