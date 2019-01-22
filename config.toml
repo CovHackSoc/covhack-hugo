@@ -1,4 +1,5 @@
 languageCode = "en-us"
+language = "en"
 title = "CovHack 2019"
 theme = "hackathon"
 relativeURLs = true
@@ -7,7 +8,7 @@ relativeURLs = true
 [params]
     name = "CovHack"
     year = "2019"
-    date = "9<sup>th</sup> - 10<sup>th</sup> March 2019"
+    date = "16<sup>th</sup> - 17<sup>th</sup> March 2019"
     tickets = "covhack/testevent"
     logo = "/images/covhack-square-logo-bg.png"
     # Social Media Links

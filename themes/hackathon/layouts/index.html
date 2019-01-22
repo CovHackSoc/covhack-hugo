@@ -20,7 +20,7 @@
         <img src="{{ .Site.Params.Logo }}" alt="CovHack Sticker" />
     </div>
     <div class="header-full fadeIn">
-        <h1>{{ .Site.Params.Name  }} <span>{{ .Site.Params.Year }}</span></h1/>
+        <h1>{{ .Site.Params.Name  }} <span>{{ .Site.Params.Year }}</span></h1>
     </div>
     <div class="header-full fadeIn">
         <h2>{{ .Site.Params.Date | safeHTML }}</h2>
@@ -38,9 +38,9 @@
     </div>
 </section>
 
-<section class="map-container">
+<div class="map-container">
     {{ partial "map.html" (dict "container" "map" )}}
-</section>
+</div>
 
 <section class="style1">
     <div class="inner">
