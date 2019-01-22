@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://covhack.org/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>https://covhack.org/directions/</loc>
+    <loc>/directions/</loc>
   </url>
   
   <url>
-    <loc>https://covhack.org/faq/</loc>
+    <loc>/faq/</loc>
   </url>
   
   <url>
-    <loc>https://covhack.org/footer/</loc>
+    <loc>/footer/</loc>
   </url>
   
   <url>
-    <loc>https://covhack.org/schedule/</loc>
+    <loc>/schedule/</loc>
   </url>
   
   <url>
-    <loc>https://covhack.org/sponsors/</loc>
+    <loc>/sponsors/</loc>
   </url>
   
   <url>
-    <loc>https://covhack.org/summary/</loc>
+    <loc>/summary/</loc>
   </url>
   
   <url>
-    <loc>https://covhack.org/tickets/</loc>
+    <loc>/tickets/</loc>
   </url>
   
   <url>
-    <loc>https://covhack.org/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://covhack.org/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   

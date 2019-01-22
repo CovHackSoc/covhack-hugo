@@ -506,7 +506,7 @@ table {
   flex-shrink: 1;
   flex-grow: 1;
   flex-basis: 360px;
-  margin: 0px; }
+  margin-right: 15px; }
 
 /* Firefox mobile was having issues where the burger button would cause a text selection.
  * https://stackoverflow.com/questions/826782/how-to-disable-text-selection-highlighting

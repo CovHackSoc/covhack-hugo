@@ -2,66 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CovHack 2019</title>
-    <link>https://covhack.org/</link>
+    <link>/</link>
     <description>Recent content on CovHack 2019</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://covhack.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://covhack.org/directions/</link>
+      <link>/directions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://covhack.org/directions/</guid>
-      <description>Find Us We&amp;rsquo;re hosting this on the Coventry University Campus, which is a 15 minutes walk away from the train station or 10 minutes from the Coach station.
-Please account for the chance of event overruns when buying tickets, hackathons are notorious for overrunning.
+      <guid>/directions/</guid>
+      <description>Find Us The event is being hosted on the Coventry University Campus, which is a 20 minutes walk from the train station, or 10 minutes from the coach station.
+When booking tickets bear in mind that hackathons are notorious for over running.
  Train Coventry has direct train links to the following major cities:
- Birmingham (20 minute Journey from New Street Station) London (1 Hour from Euston with fast train, 2 hours with the cheaper and slower one) Oxford (45 Minutes) Manchester (2 Hours from Manchester Piccadilly)  If you are coming from the East Midlands (Cambridge, Leicester, etc), you can get the Cross Country train from Stansted to Birmingham and get off at Nuneaton.</description>
+ Birmingham (20 minutes journey from New Street Station) London (1 Hour from Euston with fast train, 2 hours with the cheaper and slower one) Oxford (45 Minutes) Manchester (2 Hours from Manchester Piccadilly)    Bus Coventry has direct coach links to Birmingham and London.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://covhack.org/faq/</link>
+      <link>/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://covhack.org/faq/</guid>
-      <description>FAQs What&amp;rsquo;s a Hackathon? A Hackathon is a weekend long invention marathon. You work over the weekend to build a project (generally something to do with tech, like a website or robot).  Can I attend? All students (even those not at Coventry University) and recent graduates (within the last year) can attend!
-You don&amp;rsquo;t even have to study in the UK or Europe
- How much does it cost?</description>
+      <guid>/faq/</guid>
+      <description>FAQs What&amp;rsquo;s a Hackathon? A Hackathon is a weekend long invention marathon. You work over the weekend to build a project (generally something to do with tech, like a website or robot).  Can I attend? All students and recent graduates (within the last year) from any university can attend.  How much does it cost? The event is completely free! Everything is paid for by our wonderful sponsors!  What about Sleeping?</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://covhack.org/footer/</link>
+      <link>/footer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://covhack.org/footer/</guid>
+      <guid>/footer/</guid>
       <description>Find us on socials, Github or email:
    
 Our partners:
 
- &amp;copy; 2018 Coventry University Hackathon Society</description>
+ &amp;copy; 2019 Coventry University Hackathon Society</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://covhack.org/schedule/</link>
+      <link>/schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://covhack.org/schedule/</guid>
+      <guid>/schedule/</guid>
       <description> Schedule This is subject to change, but the general plan is as follows:
 Saturday    Time Activity     10:00 Doors open   11:00 Openning Presentations   12:00 Hacking starts!   13:00 Lunch   14:00 Workshops start   19:00 Dinner   21:00 Wearwolf     Sunday    Time Activity     0:00 PIZZA   7:00 Breakfast   12:00 Hacking Ends   13:00 Lunch   14:00 Presentations   16:00 Judging   16:30 Awards and Closing Cermony   17:00 Closing      </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://covhack.org/sponsors/</link>
+      <link>/sponsors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://covhack.org/sponsors/</guid>
+      <guid>/sponsors/</guid>
       <description> Sponsors Partners 
 If you are interested in sponsoring our event, send an email to hello AT covhack DOT org
  </description>
@@ -69,20 +67,21 @@ If you are interested in sponsoring our event, send an email to hello AT covhack
     
     <item>
       <title></title>
-      <link>https://covhack.org/summary/</link>
+      <link>/summary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://covhack.org/summary/</guid>
-      <description>Welcome to CovHack 2019! CovHack 2019 is a student hackathon organised by the Hackathon Society at Coventry University. Students from Coventry and beyond of all skill levels can come and build weird, wacky and wonderful projects.
-We&amp;rsquo;ll have workshops and side events during the event, including some computer security challenges for when you want a break from your project!</description>
+      <guid>/summary/</guid>
+      <description>Welcome to CovHack 2019! CovHack 2019 is a student hackathon organised by the Hackathon Society at Coventry University.
+Students from Coventry and beyond of all skill levels are invited to come and build weird, wacky and wonderful projects.
+We will have workshops and side events during the event, including some computer security challenges for when you want a break from your project!</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://covhack.org/tickets/</link>
+      <link>/tickets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://covhack.org/tickets/</guid>
+      <guid>/tickets/</guid>
       <description>Tickets We&amp;rsquo;ll be releasing tickets in four batches!</description>
     </item>
     
