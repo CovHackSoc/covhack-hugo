@@ -14,8 +14,3 @@ min_version = "0.41"
   name = "CovHackSoc"
   homepage = "https://covhack.org/"
 
-# If porting an existing theme
-[original]
-  name = "Based on Fractal by HTML5 UP"
-  homepage = "https://html5up.net/fractal"
-  repo = ""
