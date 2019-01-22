@@ -38,5 +38,4 @@ A list of car parks in the city is available
 
 If you are new to the city, beware of the challenges of driving on the ring road.
 
-{{< flexitem >}}
 {{< /flexbox >}}
