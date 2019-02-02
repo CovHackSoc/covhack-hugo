@@ -1,6 +1,6 @@
 # Welcome to CovHack 2019!
 
-CovHack 2019 is a student hackathon organised by the Hackathon Society at
+CovHack 2019 is a free-to-attend student hackathon organised by the Hackathon Society at
 Coventry University.
 
 Students from Coventry and beyond of all skill levels are invited to
