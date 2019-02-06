@@ -23,3 +23,8 @@ relativeURLs = true
     coordinates = [-1.500086, 52.405313]
     title = "CovHack"
     description = "1 Gulson Rd,<br/> Coventry<br/>CV1 2JH"
+
+[imaging]
+    resampleFilter = "box"
+    quality = 75
+    anchor = "smart"

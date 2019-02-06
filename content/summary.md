@@ -1,5 +1,4 @@
-title = "Summary"
----
+<br />
 {{< flexbox >}}
 {{< flexitem >}}
 # Welcome to CovHack 2019!
@@ -11,7 +10,7 @@ title = "Summary"
 {{< /flexitem >}}
 
 {{< flexitem >}}
-<img width="100%" src="images/pictures/dancemat.jpg" />
+<img src="images/pictures/dancemat_min.jpg" />
 {{< /flexitem >}}
 
 {{< /flexbox >}}
