@@ -1,9 +1,8 @@
 ## Find Us
 
-The event is being hosted on the Coventry University Campus, which is a 20 minutes
-walk from the train station, or 10 minutes from the coach station.
+The event is being hosted on the Coventry University Campus in the Engineering, Environment, & Computing Building.
 
-When booking tickets bear in mind that hackathons are notorious for over running.
+Getting to the venue is a 20 minutes walk from the train station, or 10 minutes from the coach station.
 
 {{< flexbox >}}
 
