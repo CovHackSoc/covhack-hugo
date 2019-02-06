@@ -10,7 +10,7 @@
 {{< /flexitem >}}
 
 {{< flexitem >}}
-<img src="images/pictures/dancemat_min.jpg" />
+<img width="100%" src="images/pictures/dancemat_min.jpg" />
 {{< /flexitem >}}
 
 {{< /flexbox >}}
