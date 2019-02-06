@@ -1,4 +1,5 @@
--
+title = "Summary"
+---
 {{< flexbox >}}
 {{< flexitem >}}
 # Welcome to CovHack 2019!
