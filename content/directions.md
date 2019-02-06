@@ -11,7 +11,7 @@ Getting to the venue is a 20 minutes walk from the train station, or 10 minutes 
 
 Coventry has direct train links to the following major cities:
 
-* Birmingham (20 minutes journey from New Street Station)
+* Birmingham (20 minute journey from New Street Station)
 * London (1 Hour from Euston with fast train, 2 hours with the cheaper and slower one)
 * Oxford (45 Minutes)
 * Manchester (2 Hours from Manchester Piccadilly)

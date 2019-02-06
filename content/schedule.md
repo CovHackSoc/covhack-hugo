@@ -13,7 +13,7 @@ Time  | Activity
 13:00 | Lunch
 14:00 | Workshops start
 19:00 | Dinner
-21:00 | Wearwolf
+21:00 | Werewolf
 {{< /schedule >}}
 
 

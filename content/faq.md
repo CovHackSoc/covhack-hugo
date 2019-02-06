@@ -20,8 +20,8 @@ The event is completely free! Everything is paid for by our wonderful sponsors!
 {{< /faq >}}
 
 {{< faq >}}
-### What about Sleeping?
-There will be a few places setup for sleeping around the venue.
+### What about sleeping?
+There will be a few places set up for sleeping around the venue.
 
 {{< /faq >}}
 
@@ -44,7 +44,7 @@ Please send us an email so we can make sure someone else who wants to come can m
 
 {{< faq >}}
 ### Will there be food and drink?
-Yes we aim to provide food, all paid for by sponsors!
+Yes - food will be provided, paid for by sponsors!
 {{< /faq >}}
 
 {{< faq >}}
@@ -67,7 +67,7 @@ We highly recommend you bring the following:
 {{< faq >}}
 ### What if I don’t know how to code?
 Not a problem! A hackathon is one of the best places to learn programming, electronics or whatever you want! We'll be running workshops to help you get started. 
-We will also be running a Slack server, so if you are stuck you can ask for
+We will also be running a Discord server, so if you are stuck you can ask for
 help from people attending the hackathon.
 {{< /faq >}}
 
