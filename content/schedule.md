@@ -8,7 +8,7 @@ This is subject to change, but the general plan is as follows:
 Time  | Activity
 ----- | ----------------------- 
 10:00 | Doors open
-11:00 | Openning Presentations
+11:00 | Opening Presentations
 12:00 | Hacking starts!
 13:00 | Lunch
 14:00 | Workshops start

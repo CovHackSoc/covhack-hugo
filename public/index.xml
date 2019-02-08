@@ -16,8 +16,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/directions/</guid>
-      <description>Find Us The event is being hosted on the Coventry University Campus, which is a 20 minute walk from the train station, or 10 minutes from the coach station.
-When booking tickets bear in mind that hackathons are notorious for over running.
+      <description>Find Us The event is being hosted on the Coventry University Campus in the Engineering, Environment, &amp;amp; Computing Building.
+Getting to the venue is a 20 minutes walk from the train station, or 10 minutes from the coach station.
  Train Coventry has direct train links to the following major cities:
  Birmingham (20 minute journey from New Street Station) London (1 Hour from Euston with fast train, 2 hours with the cheaper and slower one) Oxford (45 Minutes) Manchester (2 Hours from Manchester Piccadilly)    Bus Coventry has direct coach links to Birmingham and London.</description>
     </item>
@@ -51,7 +51,7 @@ Our partners:
       
       <guid>/schedule/</guid>
       <description> Schedule This is subject to change, but the general plan is as follows:
-Saturday    Time Activity     10:00 Doors open   11:00 Openning Presentations   12:00 Hacking starts!   13:00 Lunch   14:00 Workshops start   19:00 Dinner   21:00 Werewolf     Sunday    Time Activity     0:00 PIZZA   7:00 Breakfast   12:00 Hacking Ends   13:00 Lunch   14:00 Presentations   16:00 Judging   16:30 Awards and Closing Cermony   17:00 Closing     </description>
+Saturday    Time Activity     10:00 Doors open   11:00 Opening Presentations   12:00 Hacking starts!   13:00 Lunch   14:00 Workshops start   19:00 Dinner   21:00 Werewolf     Sunday    Time Activity     0:00 PIZZA   7:00 Breakfast   12:00 Hacking Ends   13:00 Lunch   14:00 Presentations   16:00 Judging   16:30 Awards and Closing Cermony   17:00 Closing     </description>
     </item>
     
     <item>
@@ -61,7 +61,7 @@ Saturday    Time Activity     10:00 Doors open   11:00 Openning Presentations   
       
       <guid>/sponsors/</guid>
       <description> Sponsors Partners 
-If you are interested in sponsoring our event, send an email to: hello AT covhack DOT org
+If you are interested in sponsoring our event, send an email to hello@covhack.org
 </description>
     </item>
     
@@ -71,9 +71,10 @@ If you are interested in sponsoring our event, send an email to: hello AT covhac
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/summary/</guid>
-      <description>Welcome to CovHack 2019! CovHack 2019 is a free-to-attend student hackathon organised by the Hackathon Society at Coventry University.
-Students from Coventry and beyond of all skill levels are invited to come and build weird, wacky and wonderful projects.
-We will have workshops and side events during the event, including some computer security challenges for when you want a break from your project!</description>
+      <description>
+Welcome to CovHack 2019! CovHack 2019 is a student hackathon organised by the Hackathon Society at Coventry University. Students from Coventry and beyond of all skill levels are invited to come and build weird, wacky and wonderful projects.
+We will have workshops and side events during the event, including some computer security challenges for when you want a break from your project!
+  </description>
     </item>
     
     <item>
