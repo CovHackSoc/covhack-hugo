@@ -1,8 +1,57 @@
-.logos {
-    display: block; 
-    margin: 0 auto;
-    text-align: center;
-}
-.logos a {
-    border: none;
+.sponsors {
+  @include justifyCenter;
+
+  background-color: $primary-colour;
+  color: black;
+  text-align: center;
+
+  h1 {
+    font-weight: normal;
+    padding: .7em;
+    font-size: 1.7em;
+  }
+
+  h3 {
+    padding: 10px;
+    font-weight: bold;
+  }
+
+  .sponsors-gold, .sponsors-silver, .sponsors-bronze, .sponsors-partners {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .sponsors-grid-item {
+    margin: 0.5em;
+    margin-bottom: 1.5em;
+    img {
+      width: 100%;
+      display: block;
+    }
+  }
+
+  .sponsors-gold {
+    .sponsors-grid-item {
+      width: 40%;
+    }
+  }
+
+  .sponsors-silver {
+    .sponsors-grid-item {
+      width: 30%;
+    }
+  }
+
+  .sponsors-bronze {
+    .sponsors-grid-item {
+      width: 20%;
+    }
+  }
+
+  .sponsors-partners {
+    .sponsors-grid-item {
+      width: 20%;
+    }
+  }
 }

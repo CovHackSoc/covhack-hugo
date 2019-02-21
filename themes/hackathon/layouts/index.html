@@ -49,11 +49,9 @@
     </div>
 </section>
 
-<section class="style1" style="background: white;"  id="sponsors">
-    <div class="inner">
-        <!-- SPONSORS -->
-        {{ with .Site.GetPage "page" "sponsors" }}{{ .Content }}{{ end }}
-    </div>
+<section class="sponsors" style="background: white;"  id="sponsors">
+  <!-- SPONSORS -->
+  {{ with .Site.GetPage "page" "sponsors" }}{{ .Content }}{{ end }}
 </section>
 
 <section class="faq-grid" id="faq">
