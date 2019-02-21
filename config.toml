@@ -4,6 +4,9 @@ title = "CovHack 2019"
 theme = "hackathon"
 relativeURLs = true
 
+# Prevent hugo rendering these pages as this theme is single page scroll onyl: (use homepage and also add "page" to the diables list)
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+
 # Theme settings
 [params]
     name = "CovHack"
