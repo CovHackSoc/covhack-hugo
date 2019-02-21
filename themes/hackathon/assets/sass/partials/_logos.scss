@@ -1,8 +1,94 @@
-.logos {
-    display: block; 
-    margin: 0 auto;
-    text-align: center;
-}
-.logos a {
-    border: none;
+.sponsors {
+  @include justifyCenter;
+
+  background-color: $primary-colour;
+
+  color: black;
+  text-align: center;
+
+  h1 {
+    font-weight: normal;
+    padding: 1em;
+    font-size: 1.7em;
+  }
+
+  h3 {
+    padding: 10px;
+    font-weight: bold;
+  }
+
+  .sponsors-gold, .sponsors-silver, .sponsors-bronze, .sponsors-partners {
+    padding-bottom: 1.5em;
+    justify-content: start;
+  }
+
+
+  //1
+  .sponsors-gold {
+
+    justify-content: center;
+
+    display: grid;
+    grid-template-columns: 40%;
+
+    grid-gap: 1em;
+
+    .sponsors-grid-item {
+      img {
+        width: 100%;
+        display: block;
+      }
+    }
+  }
+
+  .sponsors-silver {
+
+    display: grid;
+
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1em;
+
+    .sponsors-grid-item {
+      img {
+        width: 100%;
+        display: block;
+      }
+    }
+  }
+
+  .sponsors-bronze {
+    display: grid;
+
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 1em;
+
+    .sponsors-grid-item {
+      background-color: silver;
+
+      img {
+        width: 100%;
+        display: block;
+      }
+    }
+  }
+
+  .sponsors-partners {
+    display: grid;
+    justify-content: start;
+
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 1em;
+
+    .sponsors-grid-item {
+      img {
+        width: 100%;
+        display: block;
+      }
+    }
+  }
+
+  .sponsors-grid-item {
+    align-self: stretch;
+    justify-self: stretch;
+  }
 }
