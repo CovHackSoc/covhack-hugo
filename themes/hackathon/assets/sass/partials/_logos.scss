@@ -2,13 +2,12 @@
   @include justifyCenter;
 
   background-color: $primary-colour;
-
   color: black;
   text-align: center;
 
   h1 {
     font-weight: normal;
-    padding: 1em;
+    padding: .7em;
     font-size: 1.7em;
   }
 
@@ -18,77 +17,40 @@
   }
 
   .sponsors-gold, .sponsors-silver, .sponsors-bronze, .sponsors-partners {
-    padding-bottom: 1.5em;
-    justify-content: start;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
   }
 
+  .sponsors-grid-item {
+    margin: 0em 1em 1em 0em;
+    img {
+      width: 100%;
+      display: block;
+    }
+  }
 
-  //1
   .sponsors-gold {
-
-    justify-content: center;
-
-    display: grid;
-    grid-template-columns: 40%;
-
-    grid-gap: 1em;
-
     .sponsors-grid-item {
-      img {
-        width: 100%;
-        display: block;
-      }
+      width: 40%;
     }
   }
 
   .sponsors-silver {
-
-    display: grid;
-
-    grid-template-columns: repeat(3, 1fr);
-    grid-gap: 1em;
-
     .sponsors-grid-item {
-      img {
-        width: 100%;
-        display: block;
-      }
+      width: 30%;
     }
   }
 
   .sponsors-bronze {
-    display: grid;
-
-    grid-template-columns: repeat(5, 1fr);
-    grid-gap: 1em;
-
     .sponsors-grid-item {
-      background-color: silver;
-
-      img {
-        width: 100%;
-        display: block;
-      }
+      width: 20%;
     }
   }
 
   .sponsors-partners {
-    display: grid;
-    justify-content: start;
-
-    grid-template-columns: repeat(5, 1fr);
-    grid-gap: 1em;
-
     .sponsors-grid-item {
-      img {
-        width: 100%;
-        display: block;
-      }
+      width: 20%;
     }
-  }
-
-  .sponsors-grid-item {
-    align-self: stretch;
-    justify-self: stretch;
   }
 }
