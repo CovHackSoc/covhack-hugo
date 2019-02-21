@@ -1,6 +1,6 @@
 .DS_Store
 
 # Ignore Hugo builds
-public/
+# public/
 resources/
 .sass-cache
