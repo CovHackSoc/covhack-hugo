@@ -42,6 +42,11 @@
     {{ partial "map.html" (dict "container" "map" )}}
 </div>
 
+<section class="style1 inner" id="tickets">
+    {{ with .Site.GetPage "page" "tickets" }}{{ .Content }}{{ end }}
+    {{ partial "tickets.html" (dict "tickets" .Site.Params.Tickets )}}
+</section>
+
 <section class="style1">
     <div class="inner">
         <!-- SCHEDULE -->
@@ -57,11 +62,6 @@
 <section class="faq-grid" id="faq">
     <!-- FAQ -->
     {{ with .Site.GetPage "page" "faq" }}{{ .Content }}{{ end }}
-</section>
-
-<section class="style1 inner" id="tickets">
-    {{ with .Site.GetPage "page" "tickets" }}{{ .Content }}{{ end }}
-    {{ partial "tickets.html" (dict "tickets" .Site.Params.Tickets )}}
 </section>
 
 {{ end }}
