@@ -98,7 +98,7 @@ nav {
 
 .nav-title-visible {
   @include breakpoint2(desktop) {
-    background-color: rgba(darken($primary-colour, 10%), 0.9);
+    background-color: rgba($primary-colour, 0.85);
     a:first-child {
       //Transition in
       transition: transform .3s ease, opacity .3s ease;
