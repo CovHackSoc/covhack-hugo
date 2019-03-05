@@ -510,10 +510,11 @@ table {
   .sponsors .sponsors-gold, .sponsors .sponsors-silver, .sponsors .sponsors-bronze, .sponsors .sponsors-partners {
     display: flex;
     flex-direction: row;
-    justify-content: center; }
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-bottom: 32px; }
   .sponsors .sponsors-grid-item {
     margin: 10px;
-    margin-bottom: 48px;
     border-style: solid;
     border-width: 4px; }
     .sponsors .sponsors-grid-item img {
