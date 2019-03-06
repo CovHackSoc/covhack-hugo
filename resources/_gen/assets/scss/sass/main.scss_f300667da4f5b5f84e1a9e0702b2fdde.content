@@ -528,6 +528,8 @@ table {
       border-color: #4e2817; }
     .sponsors .sponsors-grid-item#overleaf {
       border-color: #41b649; }
+    .sponsors .sponsors-grid-item#zealyio {
+      border-color: #19368e; }
   .sponsors .sponsors-gold .sponsors-grid-item {
     width: 460px; }
   .sponsors .sponsors-silver .sponsors-grid-item {
