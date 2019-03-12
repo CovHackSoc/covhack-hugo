@@ -512,7 +512,7 @@ table {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
-    padding-bottom: 32px; }
+    padding-bottom: 24px; }
   .sponsors .sponsors-grid-item {
     margin: 10px;
     border-style: solid;
@@ -530,14 +530,19 @@ table {
       border-color: #41b649; }
     .sponsors .sponsors-grid-item#zealyio {
       border-color: #19368e; }
+    .sponsors .sponsors-grid-item#pcms {
+      border-color: #002f6c; }
   .sponsors .sponsors-gold .sponsors-grid-item {
     width: 460px; }
   .sponsors .sponsors-silver .sponsors-grid-item {
     width: 340px; }
   .sponsors .sponsors-bronze .sponsors-grid-item {
     width: 220px; }
-  .sponsors .sponsors-partners .sponsors-grid-item {
-    width: 220px; }
+  .sponsors .sponsors-partners {
+    max-width: 600px;
+    margin: auto; }
+    .sponsors .sponsors-partners .sponsors-grid-item {
+      width: 220px; }
 
 .socials a {
   border: none; }

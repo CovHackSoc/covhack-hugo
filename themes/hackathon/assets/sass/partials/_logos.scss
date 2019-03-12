@@ -21,7 +21,7 @@
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
-    padding-bottom: 32px;
+    padding-bottom: 24px;
   }
 
   .sponsors-grid-item {
@@ -49,6 +49,9 @@
     &#zealyio {
       border-color: #19368e;
     }
+    &#pcms {
+      border-color: #002f6c;
+    }
   }
 
   .sponsors-gold {
@@ -70,6 +73,9 @@
   }
 
   .sponsors-partners {
+    max-width: 600px;
+    margin: auto;
+
     .sponsors-grid-item {
       width: 220px;
     }
